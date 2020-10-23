@@ -1,6 +1,1 @@
-<style>
-div.a {
-  text-align: center;
-}
-<h1>text-align: center:</h1>
-</style>
+      <h1 style="text-align:center;">Learn for free</h1>
